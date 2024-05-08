@@ -31,7 +31,10 @@ Unit Test case scenarios including negative and error cases:
 
 Integration test:
 •	Navigate to user page from home page, by entering the user page URL in the same browser window.
+
 •	Navigate to user page from admin page, by entering the user page URL in the same browser window.
+
 •	Navigate to admin page from home page, by entering the admin page url in the same browser window.
+
 •	Navigate to admin page from user page, by entering the admin page URL in the same browser window.
 
