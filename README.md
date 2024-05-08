@@ -1,6 +1,6 @@
 # JavaWebAppTestExercise
 
-implemented both unit and integration tests programmatically using Java, to cover the code and its functionality, including error cases and negative cases.
+Implemented both unit and integration tests programmatically using Java, to cover the code and its functionality, including error cases and negative cases.
 
 Unit Test case scenarios including negative and error cases: 
 
@@ -30,6 +30,7 @@ Unit Test case scenarios including negative and error cases:
 
 
 Integration test:
+
 •	Navigate to user page from home page, by entering the user page URL in the same browser window.
 
 •	Navigate to user page from admin page, by entering the user page URL in the same browser window.
